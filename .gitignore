@@ -1,0 +1,25 @@
+############################
+# Node.js
+############################
+node_modules
+npm-debug.log
+.node_history
+
+############################
+# Strapi
+############################
+.tmp/
+.cache/
+.strapi/
+build/
+dist/
+.env
+license.txt
+exports/
+*.cache
+coverage/
+
+############################
+# SQLite
+############################
+.tmp/*.db
